@@ -1,8 +1,1 @@
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
+This project is about C programming, it focuses on scripts and commands used in running and compiling of the C language. #CISFUN
