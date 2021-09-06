@@ -1,0 +1,1 @@
+This projects focuses on arrays, pointers and strings in the C programming language
