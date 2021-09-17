@@ -1,0 +1,1 @@
+This program focuses on static libraries in the C programming language
