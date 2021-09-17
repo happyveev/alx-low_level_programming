@@ -1,0 +1,1 @@
+This project focuses on argc and argv in the C programming language
