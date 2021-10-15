@@ -1,0 +1,1 @@
+This project focuses on bit manipulation in the C programming language
